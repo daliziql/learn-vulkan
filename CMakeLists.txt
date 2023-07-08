@@ -1,6 +1,6 @@
 CMAKE_MINIMUM_REQUIRED(VERSION 3.9)
 
-project(TestVulkan)
+project(learn-vulkan)
 
 set(VulkanPath $ENV{VK_SDK_PATH})
 
